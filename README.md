@@ -6,6 +6,8 @@ Proyecto de análisis de clientes mediante el modelo **RFM (Recency, Frequency, 
 
 El objetivo es segmentar a los clientes según su comportamiento de compra e identificar perfiles relevantes desde una perspectiva de negocio, como clientes de alto valor, clientes con potencial de crecimiento y clientes en riesgo de abandono.
 
+Los datos proceden del dataset **Online Retail** de la **UCI Machine Learning Repository**, publicado bajo licencia **CC BY 4.0**. Se incluye una copia del archivo original en la carpeta `data/` para facilitar la reproducibilidad del proyecto.
+
 ## Herramientas
 
 - Python
